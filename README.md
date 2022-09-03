@@ -18,13 +18,16 @@ Original post at OLKB subreddit: https://www.reddit.com/r/olkb/comments/wz6s32
 - 3200 mAh Li-pol cell
 
 ## Components
-- PCB (use the production files or export your own)- 74$ per 2 assembled PCBs at JLCPCB
-- 68 Kailh Choc switches + hotswap sockets - 62$
-- 12864-06D LCD (https://www.aliexpress.com/item/1005001621784395.html) - 4$
-- Joystick (https://www.aliexpress.com/item/4000263837725.html) - 3$
-- Rotary encoder - 1$
-- nice!nano v2 - 27$
-- Samsung B800BC battery - 8$
-The rest is mostly shipping costs and VAT in my country (Czech Republic)
 
-Grand total: ~ 160$
+| Part | Where to get it | Price |
+| ---- | --------------- | ----- |
+| PCB | JLCPCB or your preferred PCB company | 74$ per 2 PCBs |
+| Kailh Choc switches + sockets | Your preferred keyboard parts seller | 62$ |
+| 12864-06D LCD | https://www.aliexpress.com/item/1005001621784395.html | 4$ |
+| Joystick | https://www.aliexpress.com/item/4000263837725.html | 3$ |
+| Rotary encoder (15mm shaft) | https://www.aliexpress.com/item/32759396738.html | 1$ |
+| Nice!nano v2 | https://nicekeyboards.com/nice-nano/#find-a-store |  26$ |
+| Samsung B800BC battery | https://www.aliexpress.com/item/1005002757023296.html | 8$ |
+| Grand total |  | 141$ (my build was ~160-170$ due to taxes and shipping costs) |
+
+I am not affiliated in any way with sellers mentioned above, these are just examples where I got my parts from.
