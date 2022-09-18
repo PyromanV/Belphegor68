@@ -17,7 +17,7 @@ Originally, this was a project for me to learn KiCad while doing something usefu
 - Per-key RGB backlight and underglow
 - Rotary encoder
 - Joystick
-- Low-power 2.2" 128x64 transreflective LCD
+- Low-power 2.2" 128x64 LCD
 - 3200 mAh Li-pol cell
 
 ## Components
@@ -50,12 +50,12 @@ I highly recommend using machine sockets, as they are much more low profile. Cor
 If possible, get the 15mm shaft length variant. This is the ideal length for the stock case and is reasonably low-profile. Shorter encoders are possible, but are much harder to find.
 
 ### Keycaps
-If possible, use blank keycaps directly from the Thingiverse link. They feel much nicer to the touch than those with the legends. I recommend printing them in PLA on a smooth PEI sheet treated with some sort of adhesive, oriented top-side down (see image below). No supports are needed, however you might want to use a 1mm brim, just to give the keys a bit more contact surface. Use lowest layer height preset available for maximum smoothness, ideally 0.07mm.
+If possible, use blank keycaps directly from the Thingiverse link. They feel much nicer to the touch than those with the legends. I recommend printing them in PLA on a smooth PEI sheet treated with some sort of adhesive, oriented top-side down (see image below). No supports are needed, however you might want to use a 1mm brim, just to give the keys a bit more contact surface. Use lowest layer height preset available for maximum smoothness, 0.07mm seems ideal.
 
 ![obrazek](https://user-images.githubusercontent.com/16986988/188282542-0e87de21-b97e-4f2c-95eb-53202298870c.png)
 
 ## Credits
 
-The Aceedia firmware relies heavily on Adafruit's nRF52 Arduino core (https://github.com/adafruit/Adafruit_nRF52_Arduino), Neopixel library and Bluefruit libraries. It also uses u8g2 library (https://github.com/olikraus/u8g2) and PCA95X5 library (https://github.com/hideakitai/PCA95x5).
+The Acedia firmware relies heavily on Adafruit's nRF52 Arduino core (https://github.com/adafruit/Adafruit_nRF52_Arduino), Neopixel library and Bluefruit libraries. It also uses u8g2 library (https://github.com/olikraus/u8g2) and PCA95X5 library (https://github.com/hideakitai/PCA95x5).
 
-Used in the design is, most importantly, the footprint for nice!nano (https://github.com/bstiq/nice-nano-kicad) and the library for switches' footprints (https://github.com/daprice/keyswitches.pretty). In some parts of the design, copyrighted fonts are used (http://www.peter-wiegel.de/Aurach_Tri.html, Our Sacred Rights by Bolt Cutter Design).
+Used in the design is the footprint for nice!nano (https://github.com/bstiq/nice-nano-kicad) and the library for switch footprints (https://github.com/daprice/keyswitches.pretty). In some parts of the design, copyrighted fonts are used (http://www.peter-wiegel.de/Aurach_Tri.html, Our Sacred Rights by Bolt Cutter Design).
